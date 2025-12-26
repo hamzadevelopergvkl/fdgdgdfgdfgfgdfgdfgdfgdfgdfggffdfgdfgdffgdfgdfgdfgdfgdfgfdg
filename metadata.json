@@ -1,0 +1,8 @@
+{
+  "name": "Shadow",
+  "description": "A modern messenger application by Shadow featuring real-time chat, multimedia support, and AI-powered smart replies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --theme-primary: #D97706;
+  --theme-primary-light: #FEF3C7;
+  --theme-primary-dark: #B45309;
+  --theme-primary-hover: #F59E0B;
+  --theme-secondary: #1E293B;
+  --theme-secondary-light: #334155;
+  --theme-bg: #0F172A;
+  --theme-bg-light: #FDFBF7;
+  --theme-surface: #FFFFFF;
+  --theme-text: #1E293B;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

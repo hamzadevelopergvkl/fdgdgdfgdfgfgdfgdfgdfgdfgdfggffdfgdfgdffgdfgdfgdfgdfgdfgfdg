@@ -1,0 +1,9 @@
+{
+  "appId": "com.shadow.messenger",
+  "appName": "Shadow",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
